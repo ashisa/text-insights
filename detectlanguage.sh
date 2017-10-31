@@ -1,0 +1,1 @@
+curl -v -X POST "https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/languages" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: my-trial-key" --data-ascii "{ "documents": [ { "id": "1", "text": "This phone has a great battery. The display is sharp and bright. But the store does not have the apps I need." } ] }"
