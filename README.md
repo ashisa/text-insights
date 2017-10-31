@@ -2,10 +2,10 @@
 
 This repository contains the script used in the MSDN magazine article titled "From simple text to targeted sentiment analysis with Microsoft Cognitive Services". A description of the scripts are as following -
 
-*detectlanguage.sh* - This script used the languages endpoint to detect the language of the input text using the Text Analytics API
-*keyphrases.sh* - This script detects the key phrases in the given text input using the Text Analytics API
-*linguistic.sh* - This script send the text to the Linguistic Analysis API and returns the constituency tree, POS Tag and tokens response
-*sentiment.sh* - This scripts detects the sentiment score of the text record using the Text Analytics API
++ **detectlanguage.sh** - This script used the languages endpoint to detect the language of the input text using the Text Analytics API
++ **keyphrases.sh** - This script detects the key phrases in the given text input using the Text Analytics API
++ **linguistic.sh** - This script send the text to the Linguistic Analysis API and returns the constituency tree, POS Tag and tokens response
++ **sentiment.sh** - This scripts detects the sentiment score of the text record using the Text Analytics API
 
 # How to use these scripts?
 
