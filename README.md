@@ -1,6 +1,6 @@
 # What is this repository?
 
-This repository contains the script used in the MSDN magazine article titled "From simple text to targeted sentiment analysis with Microsoft Cognitive Services". A description of the scripts are as following -
+This repository contains the script used in the MSDN magazine article titled "From simple text to targeted sentiment analysis with Microsoft Cognitive Services". A description of the scripts is as following -
 
 + **detectlanguage.sh** - This script used the languages endpoint to detect the language of the input text using the Text Analytics API
 + **keyphrases.sh** - This script detects the key phrases in the given text input using the Text Analytics API
